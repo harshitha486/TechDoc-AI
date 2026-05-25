@@ -191,11 +191,6 @@ User Input (code/PR/diff)
 
 ---
 
-## Live Demo Link
-
-https://harshitha486.github.io/TechDoc-AI/
-
----
 ## 📄 License
 
 MIT License — feel free to use and modify.
